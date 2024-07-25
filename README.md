@@ -13,7 +13,7 @@
 
 ### Languages and Tools
 ![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart)
+<img src="https://img.shields.io/badge/-?logo=dart&style=for-the-badge" alt="Dart" height="40">
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?logo=firebase)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code)
 ![Figma](https://img.shields.io/badge/Figma-1ABC9C?logo=figma)
