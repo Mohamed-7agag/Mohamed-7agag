@@ -19,7 +19,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code)
 ![Figma](https://img.shields.io/badge/Figma-1ABC9C?logo=figma)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman)
-![Git](https://img.shields.io/badge/Git-000000?logo=git)
+![Git](https://img.shields.io/badge/Git-181717?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 
 ### GitHub Stats
