@@ -1,13 +1,12 @@
-# Welcome to [Your Name]'s Profile! 👋
+# Welcome to Mohamed Hagag's Profile! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 ## 🌱 I'm currently learning everything I can find about Flutter. Learning never stops!
 ## 💃 I'm looking to collaborate on Flutter Projects.
-## 💬 Ask me about anything about Flutter.
 
 ### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](linkedin.com/in/mohamed-hagag-ba9697223)
 [![Gmail](https://img.shields.io/badge/-Gmail-red)](mailto:yourmail@gmail.com)
 
 ### Languages and Tools
