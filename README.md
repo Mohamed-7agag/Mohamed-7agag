@@ -10,7 +10,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-red)](mailto:mh169824@gmail.com)
 
 ### Languages and Tools
-![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)
+![Flutter](https://img.shields.io/badge/logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?logo=firebase)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android)
