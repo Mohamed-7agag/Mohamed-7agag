@@ -21,10 +21,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 
 ### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-### I'm currently working on:
-- [Fruits-Hup](https://github.com/yourusername/Fruits-Hup) (private repo)
-- [Bag-Online-Store](https://github.com/yourusername/Bag-Online-Store) (private repo)
-- [Agri-tech360-Graduation](https://github.com/yourusername/Agri-tech360-Graduation) (private repo)
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-7agag&show_icons=true&theme=radical)
