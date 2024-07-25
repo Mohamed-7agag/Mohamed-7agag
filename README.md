@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Mohamed Hagag's Profile! 👋</h1>
 
-## Junior Flutter Developer
+<h1 align="center">Junior Flutter Developer</h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mohamed-7agag&color=blue)
 
