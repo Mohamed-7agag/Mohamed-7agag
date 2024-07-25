@@ -1,4 +1,4 @@
-# Welcome to Mohamed Hagag's Profile! 👋
+<h1 align="center">Welcome to Mohamed Hagag's Profile! 👋</h1>
 
 ## Junior Flutter Developer
 
