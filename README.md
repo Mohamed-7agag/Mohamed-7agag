@@ -7,7 +7,7 @@
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/mohamed-hagag-ba9697223)
-[![Gmail](https://img.shields.io/badge/-Gmail-red)](mailto:yourmail@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red)](mailto:mh169824@gmail.com)
 
 ### Languages and Tools
 ![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)
