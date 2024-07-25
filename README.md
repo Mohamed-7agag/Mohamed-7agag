@@ -1,16 +1,16 @@
 # Welcome to Mohamed Hagag's Profile! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Mohamed-7agag&color=blue)
 
 ## 🌱 I'm currently learning everything I can find about Flutter. Learning never stops!
-## 💃 I'm looking to collaborate on Flutter Projects.
+## 👮 I'm looking to collaborate on Flutter Projects.
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/mohamed-hagag-ba9697223)
 [![Gmail](https://img.shields.io/badge/-Gmail-red)](mailto:mh169824@gmail.com)
 
 ### Languages and Tools
-![Flutter](https://img.shields.io/badge/-?logo=flutter)
+![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?logo=firebase)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android)
