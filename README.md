@@ -6,7 +6,7 @@
 ## 💃 I'm looking to collaborate on Flutter Projects.
 
 ### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](linkedin.com/in/mohamed-hagag-ba9697223)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/mohamed-hagag-ba9697223)
 [![Gmail](https://img.shields.io/badge/-Gmail-red)](mailto:yourmail@gmail.com)
 
 ### Languages and Tools
