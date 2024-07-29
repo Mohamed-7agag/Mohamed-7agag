@@ -1,49 +1,79 @@
-<h1 align="center">Welcome to Mohamed Hagag's Profile! 👋</h1>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Mohamed+Hagag!+😎;" />
+</div>
 
-<h1 align="center">Junior Flutter Developer</h1>
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mohamed-7agag&color=blue)
+## 🙋‍♂️ About Me:
 
-## 🌱 I'm currently learning everything I can find about Flutter. Learning never stops!
-## 👮 I'm looking to collaborate on Flutter Projects.
+- #### 🔭 I’m currently working as a  **Junior Flutter Developer 💻** | **Mobile Application Developer 📱**  .
 
-### Connect with Me 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/mohamed-hagag-ba9697223)
-[![Gmail](https://img.shields.io/badge/-Gmail-red)](mailto:mh169824@gmail.com)
+- #### 🌱 I’m currently learning  Advanced Flutter | Adaptive and Responsive layout.
 
-### Languages and Tools
-<p style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="margin-right: 25px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> 
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer" style="margin-right: 25px;"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="45" height="45"/> 
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="margin-right: 25px;"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="margin-right: 25px;"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/> 
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer" style="margin-right: 25px;"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="45" height="45"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 25px;"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> 
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer" style="margin-right: 25px;"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="margin-right: 25px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/> 
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer" style="margin-right: 25px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/> 
-  </a>
+- #### 👨‍💻 All of my projects are available at  **[My Repository](https://github.com/Mohamed-7agag?page=1&tab=repositories)**.
+
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+
+## 🚀 Languages and Tools:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp" />
+    <img src="https://skillicons.dev/icons?i=github,vscode,figma,postman,git" /><br>
+</div>
+
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+## 📊 My Stats:
+
+<p align="center">
+    <a href="https://github.com/Mohamed-7agag/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mohamed Hagag's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-7agag&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
 </p>
 
-### GitHub Straek Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-7agagg)
+<a href="https://github.com/Mohamed-7agag/github-readme-stats"><img alt="Mohamed Hagag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mohamed-7agag&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/Mohamed-7agag/github-readme-stats"><img alt="Mohamed Hagag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-7agag&langs_count=5&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-7agag&show_icons=true&theme=radical)
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+## 🤝 Connect With Me:
+
+<div align="left">
+    <a href="https://linkedin.com/in/mohamed-hagag-ba9697223/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+  <a href="mailto:mh169824@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+       
+</div>
+
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+## 💜 Views and Followers:
+
+<a href="https://github.com/Mohamed-7agag/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Mohamed-7agag">
+</a>
+<a href="https://github.com/Mohamed-7agag?tab=followers"><img src="https://img.shields.io/github/followers/Mohamed-7agag?label=Followers&style=social" alt="GitHub Badge"></a>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
+</h3>
+
+<br/>
