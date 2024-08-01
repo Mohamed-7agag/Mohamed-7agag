@@ -21,7 +21,7 @@
 
 ## 🚀 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,xd" />
     <img src="https://skillicons.dev/icons?i=github,vscode,figma,postman,git" /><br>
 </div>
 
